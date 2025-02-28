@@ -1,29 +1,25 @@
 # Ad-Hoc-Insights
 
-![Consumer Goods SQL Project (1)](https://github.com/srinathankolla/Ad-Hoc-Insights/assets/115559003/09e17a3b-83fa-4343-b6a3-86b292d3485f)
 
 [Link to Presentation](https://youtu.be/pViY7of-tSk?si=wzGiuRZOCnJFVu_S)
 
-Domain : Consumer Goods
+🏢 Domain : Consumer Goods
 
-Function : Excecutive Management
+🎯 Function : Excecutive Management
+ 
 
+## 📌 Project Overview  
+This project focuses on **Atliq Hardware**, a fictional leader in the **computer hardware industry**. The goal was to **empower management with data-driven insights** using **MySQL**, helping them make strategic business decisions.  
 
-**𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:**
+## 🛠️ Tools & Approach  
+- **MySQL**: Utilized advanced SQL concepts such as **Joins, CTEs, and Subqueries** to extract meaningful insights.  
+- **Power BI**: Created **visualizations** to present data trends effectively.  
+  
 
-In this endeavor, I took a closer look at Atliq Hardware, a fictional leader in computer hardware. The challenge was to empower the management with valuable insights using MySQL.
+## 📚 What I Learned  
+- Strengthened my **SQL skills** by handling real-world business data.  
+- Gained hands-on experience in **data-driven decision-making** and transforming raw data into actionable insights.  
+- Improved my ability to create **compelling data visualizations** using **Power BI**.  
+ 
 
-
-**𝗧𝗼𝗼𝗹𝘀 & 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:**
-
-I harnessed MySQL, navigating through concepts like Joins, CTEs, Subqueries, and more. PowerBI helped visualize the data.
-
-
-**𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 & 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀:**
-
-Unveiling crucial metrics - from Gross Profit to Average Manufacturing Cost - paved the way for strategic solutions. I proposed boosting production rates through enticing strategies like memberships, gift certificates, bundled deals, student discounts, and more.
-
-
-**𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗟𝗲𝗮𝗿𝗻𝗲𝗱:**
-
-This project honed my skills in SQL, providing hands-on experience with real-world data. I mastered the art of transforming raw information into actionable insights, a skill crucial in the dynamic landscape of data analytics.
+💡 **Feel free to explore the project, and let’s connect to discuss more insights!** 🚀  
