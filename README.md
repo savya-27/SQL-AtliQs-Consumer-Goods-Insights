@@ -1,0 +1,1 @@
+# SQL-AtliQs-Consumer-Goods-Insights
