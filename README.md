@@ -1,7 +1,7 @@
 # Ad-Hoc-Insights
 
 
-[Link to Presentation](https://youtu.be/pViY7of-tSk?si=wzGiuRZOCnJFVu_S)
+[Link to Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7302168360128024576/)
 
 🏢 Domain : Consumer Goods
 
